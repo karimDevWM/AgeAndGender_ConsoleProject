@@ -24,3 +24,16 @@ C:\Users\karim cesi\Desktop\projets\c#_projects\AgeAndGender\AgeAndGender\obj\De
 C:\Users\karim cesi\Desktop\projets\c#_projects\AgeAndGender\AgeAndGender\obj\Debug\netcoreapp3.1\AgeAndGender.dll
 C:\Users\karim cesi\Desktop\projets\c#_projects\AgeAndGender\AgeAndGender\obj\Debug\netcoreapp3.1\AgeAndGender.pdb
 C:\Users\karim cesi\Desktop\projets\c#_projects\AgeAndGender\AgeAndGender\obj\Debug\netcoreapp3.1\AgeAndGender.genruntimeconfig.cache
+C:\Users\karim cesi\Desktop\projets\c#_projects\github_projects\AgeAndGender_GTHB\AgeAndGender\AgeAndGender\bin\Debug\netcoreapp3.1\AgeAndGender.exe
+C:\Users\karim cesi\Desktop\projets\c#_projects\github_projects\AgeAndGender_GTHB\AgeAndGender\AgeAndGender\bin\Debug\netcoreapp3.1\AgeAndGender.deps.json
+C:\Users\karim cesi\Desktop\projets\c#_projects\github_projects\AgeAndGender_GTHB\AgeAndGender\AgeAndGender\bin\Debug\netcoreapp3.1\AgeAndGender.runtimeconfig.json
+C:\Users\karim cesi\Desktop\projets\c#_projects\github_projects\AgeAndGender_GTHB\AgeAndGender\AgeAndGender\bin\Debug\netcoreapp3.1\AgeAndGender.runtimeconfig.dev.json
+C:\Users\karim cesi\Desktop\projets\c#_projects\github_projects\AgeAndGender_GTHB\AgeAndGender\AgeAndGender\bin\Debug\netcoreapp3.1\AgeAndGender.dll
+C:\Users\karim cesi\Desktop\projets\c#_projects\github_projects\AgeAndGender_GTHB\AgeAndGender\AgeAndGender\bin\Debug\netcoreapp3.1\AgeAndGender.pdb
+C:\Users\karim cesi\Desktop\projets\c#_projects\github_projects\AgeAndGender_GTHB\AgeAndGender\AgeAndGender\obj\Debug\netcoreapp3.1\AgeAndGender.csprojAssemblyReference.cache
+C:\Users\karim cesi\Desktop\projets\c#_projects\github_projects\AgeAndGender_GTHB\AgeAndGender\AgeAndGender\obj\Debug\netcoreapp3.1\AgeAndGender.AssemblyInfoInputs.cache
+C:\Users\karim cesi\Desktop\projets\c#_projects\github_projects\AgeAndGender_GTHB\AgeAndGender\AgeAndGender\obj\Debug\netcoreapp3.1\AgeAndGender.AssemblyInfo.cs
+C:\Users\karim cesi\Desktop\projets\c#_projects\github_projects\AgeAndGender_GTHB\AgeAndGender\AgeAndGender\obj\Debug\netcoreapp3.1\AgeAndGender.csproj.CoreCompileInputs.cache
+C:\Users\karim cesi\Desktop\projets\c#_projects\github_projects\AgeAndGender_GTHB\AgeAndGender\AgeAndGender\obj\Debug\netcoreapp3.1\AgeAndGender.dll
+C:\Users\karim cesi\Desktop\projets\c#_projects\github_projects\AgeAndGender_GTHB\AgeAndGender\AgeAndGender\obj\Debug\netcoreapp3.1\AgeAndGender.pdb
+C:\Users\karim cesi\Desktop\projets\c#_projects\github_projects\AgeAndGender_GTHB\AgeAndGender\AgeAndGender\obj\Debug\netcoreapp3.1\AgeAndGender.genruntimeconfig.cache

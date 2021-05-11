@@ -6,30 +6,37 @@ namespace AgeAndGender
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("saisir h pour homme ou f pour femme : ");
-            string genre = Console.ReadLine();
-            Console.WriteLine("saisir age : ");
-            int age = Convert.ToInt32(Console.ReadLine());
+            const int majorityAgeFR = 18;
 
-            if(genre.Equals("h") && age>=10)
+            Console.WriteLine("input 'M' for men and 'W' for women");
+            string gender = Console.ReadLine();
+            while(gender != "M" && gender != "W")
             {
-                Console.WriteLine("homme");
+                gender = Console.ReadLine();
             }
-            else if(genre.Equals("f") && age>=18)
+            
+            Console.WriteLine("input age : ");
+            int age = Convert.ToInt32(Console.ReadLine());
+            while(age < 0)
             {
-                Console.WriteLine("femme");
+                age = Convert.ToInt32(Console.ReadLine());
             }
-            else if(genre.Equals("h") && age<18)
+            
+            if(gender.Equals("M") && age>=majorityAgeFR)
             {
-                Console.WriteLine("garçon");
+                Console.WriteLine("Men");
             }
-            else if(genre.Equals("f") && age<18)
+            else if(gender.Equals("W") && age>=majorityAgeFR)
             {
-                Console.WriteLine("fille");
+                Console.WriteLine("Women");
             }
-            else
+            else if(gender.Equals("M") && age<majorityAgeFR)
             {
-                Console.WriteLine("pas compris");
+                Console.WriteLine("Boy");
+            }
+            else if(gender.Equals("f") && age<majorityAgeFR)
+            {
+                Console.WriteLine("Girl");
             }
         }
     }

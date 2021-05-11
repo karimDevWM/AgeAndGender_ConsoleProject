@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karim cesi\\Desktop\\projets\\c#_projects\\AgeAndGender\\AgeAndGender\\AgeAndGender.csproj",
+      "projectUniqueName": "C:\\Users\\karim cesi\\Desktop\\projets\\c#_projects\\github_projects\\AgeAndGender_GTHB\\AgeAndGender\\AgeAndGender\\AgeAndGender.csproj",
       "projectName": "AgeAndGender",
-      "projectPath": "C:\\Users\\karim cesi\\Desktop\\projets\\c#_projects\\AgeAndGender\\AgeAndGender\\AgeAndGender.csproj",
+      "projectPath": "C:\\Users\\karim cesi\\Desktop\\projets\\c#_projects\\github_projects\\AgeAndGender_GTHB\\AgeAndGender\\AgeAndGender\\AgeAndGender.csproj",
       "packagesPath": "C:\\Users\\karim cesi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karim cesi\\Desktop\\projets\\c#_projects\\AgeAndGender\\AgeAndGender\\obj\\",
+      "outputPath": "C:\\Users\\karim cesi\\Desktop\\projets\\c#_projects\\github_projects\\AgeAndGender_GTHB\\AgeAndGender\\AgeAndGender\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
